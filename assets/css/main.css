@@ -197,10 +197,10 @@ input, select, textarea {
 		}
 
 			h1.major:after {
-				background-image: -moz-linear-gradient(to right, #ebd517, #b74e91);
-				background-image: -webkit-linear-gradient(to right, #ebd517, #b74e91);
-				background-image: -ms-linear-gradient(to right, #ebd517, #b74e91);
-				background-image: linear-gradient(to right, #ebd517, #b74e91);
+				background-image: -moz-linear-gradient(to right, #ebd517, #26b4ec);
+				background-image: -webkit-linear-gradient(to right, #ebd517, #26b4ec);
+				background-image: -ms-linear-gradient(to right, #ebd517, #26b4ec);
+				background-image: linear-gradient(to right, #ebd517, #26b4ec);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -2540,7 +2540,7 @@ input, select, textarea {
 				}
 
 				.wrapper.style1-alt .icon.major:before {
-					color: #493382;
+					color: #199ba0;
 				}
 
 				.wrapper.style2 .icon.major:before {
@@ -3022,7 +3022,7 @@ input, select, textarea {
 				-webkit-transition: opacity 1s ease;
 				-ms-transition: opacity 1s ease;
 				transition: opacity 1s ease;
-				background: rgba(49, 36, 80, 0.9);
+				background: rgba(211, 178, 32, 0.9);
 				content: '';
 				display: block;
 				height: 100%;
